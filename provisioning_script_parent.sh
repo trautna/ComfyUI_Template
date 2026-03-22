@@ -4,8 +4,8 @@
 COMFYUI_PATH="/workspace/ComfyUI"
 
 # Get your tokens from: https://civitai.com/user/settings and https://huggingface.co/settings/tokens
-CIVITAI_TOKEN="CIVITAI_TOKEN"
-HF_TOKEN="HF_TOKEN"
+CIVITAI_TOKEN="$CIVITAI_TOKEN"
+HF_TOKEN="$HF_TOKEN"
 
 echo "### Starting Master Provisioning ###"
 
