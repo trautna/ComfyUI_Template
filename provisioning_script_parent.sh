@@ -84,8 +84,8 @@ nodes=(
 	  "https://github.com/rgthree/rgthree-comfy.git"
 	  "https://github.com/cubiq/ComfyUI_IPAdapter_plus.git"
 	  "https://github.com/crystian/ComfyUI-Crystools.git"
-	  "https://github.com/un-seen/comfyui-tensorops.git"
     "https://github.com/slahiri/ComfyUI-Workflow-Models-Downloader.git"
+    "https://github.com/kijai/ComfyUI-Florence2.git"
     "https://github.com/MoonGoblinDev/Civicomfy.git"
 )
 
