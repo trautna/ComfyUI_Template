@@ -96,7 +96,7 @@ for repo in "${nodes[@]}"; do
 done
 
 # Install dependencies for all nodes
-pip install deepdiff surrealist tavily-python onnxruntime-gpu
+pip install  tavily-python deepdiff surrealist onnxruntime-gpu
 find "$COMFYUI_PATH/custom_nodes" -name "requirements.txt" -exec pip install --no-cache-dir -r {} \;
 
 # --- 4. EXECUTE ---
